@@ -20,6 +20,15 @@
 		- **DO HW AND ASK QUESTIONS WITH WHAT THEY DO**
 		- Be enthusiastic, upbeat, positive, and courteous (i.e. "thank for time and interview", "I'm looking forward to hearing from you/continuing with the application process")
 			- Play the role of the interviewee
+- Broken into sections:
+	- Intro (5 minutes)
+		- The role, job, any questions before they dive right in
+	- Behavioral questions (20 minutes)
+		- They're looking for 2 things:
+			1. Can you do the job?
+			2. Can I see myself working with you?
+	- Q\&A (5 minutes)
+	- Be calm
 
 ## Zoom interview:
 - If I get to next round, call him back!
