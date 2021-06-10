@@ -1,5 +1,3 @@
-const util = require('util');
-
 class Node {
     constructor (data, next = null) {
         this.data = data;
