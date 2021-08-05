@@ -162,3 +162,21 @@ console.log(JSON.stringify(tree, null, 4));
 tree.inorder(tree.root);
 // tree.postorder(tree.root);
 console.log(JSON.stringify(tree.search(tree.root, 7), null, 4));
+
+
+
+
+function getAllNodes(node) {
+
+    function inOrder(node) {
+        if (node) {
+            inOrder(node.left);
+            result.push(node.toString()); // push instead of output.
+            inOrder(node.right);
+        }
+    }
+
+    var result = [];
+    inOrder(node);
+    return result;
+}

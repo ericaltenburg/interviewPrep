@@ -105,3 +105,4 @@ dist
 
 *.pdf
 *hidden/
+*.DS_Store/*

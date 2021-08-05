@@ -37,3 +37,5 @@
 	2. Other has shirt and tie, Rutger's background, better impression
 		- Treat both this and the phone interview as if I'm going into the office
 - Other variables make this less straight forward: one-on-one, it depends!
+
+balarjun@amazon.com 

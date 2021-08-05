@@ -1,0 +1,17 @@
+- product engineer
+- don't apply to software engineer or ads (strict)
+- danny is a performance engineer
+- menlo, SF, Seattle, NY, London
+- new positions are in person
+- can list prefs, just MPK
+- CONFIDENCE WITH REACT, JS, GRAPHQL
+	- Brand yourself with these in mind
+- skills, experience, projects, education
+- they need azure
+- you're fitting into the role when the role doesn't fit you
+- Python, CPP, JS, PHP, azure, React, graphql, recoil, and relay
+- have 45 minute interviews down to a T
+- 20% enthusiam and 80% is performance
+- LC easy 5 min, med 10, hard 30
+- 5 min opening
+- 10 min just talk to them (is this the right approach, is this what you would do) you're being tested to see if you can collaborate. They're a resource, you need to ask questions (edge cases)
