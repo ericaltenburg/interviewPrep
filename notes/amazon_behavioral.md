@@ -47,7 +47,7 @@ Action: I would spend a little extra time if I didn't have a class or meeting to
 
 Result: As a result, I was still able to complete my office hours while helping those who needed help with the software development process, but I was also able to provide extra help to those who were taking a class that I previously taught or took.
 
-# Questions?
+# Phone Screen Questions
 
 1. How has your career developed as you've spent your time here?
 #. How was the work life balance as an engineer especially during the pandemic?
@@ -56,3 +56,14 @@ Result: As a result, I was still able to complete my office hours while helping 
 #. Why did you choose to work at Amazon?
 #. What does your day to day look like?
 #. What sort of projects have you worked on?
+
+# Virtual On-site Questions
+
+1. What did you do yesterday?
+#. With the new delta variant coming up, do you expect it to have an impact on the projects timeline?
+#. How did/does your team stay connected with work from home?
+#. What is the biggest challenge your team is working on right now?
+#. What does the structure of the team for contact and its related teams?
+    How do they interact on a day to day basis?
+    Are there any projects where you've had to work with multiple teams?
+#. What is the endgame or northstar goal of the team/project your currently working on?
